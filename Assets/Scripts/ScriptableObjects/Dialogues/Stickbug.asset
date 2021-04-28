@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a1cf9480fa6b9e418d3257638f46e72, type: 3}
+  m_Name: Stickbug
+  m_EditorClassIdentifier: 
+  sentences:
+  - Seja bem vind@ ao nosso circo!
+  - "Eu diria para ficar e assistir \xE0s atra\xE7\xF5es..."
+  - "...mas voc\xEA deve querer subir."
+  - TODOS QUEREM CHEGAR AO TOPO!
+  - "J\xE1 desistimos a tempos..."
+  - "ningu\xE9m consegue passar dos:"
+  - "G U A R D I \xD5 E S   D A   L U Z"
+  - Boa sorte no labirinto! :D
